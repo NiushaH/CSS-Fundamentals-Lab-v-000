@@ -13,7 +13,7 @@ nav a{
   background-color: lightgrey;
 }
 
-section.details{
+#details{
   background-color: red;
   width: 25%
 }
