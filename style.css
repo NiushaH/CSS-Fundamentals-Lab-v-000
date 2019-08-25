@@ -14,7 +14,6 @@ nav a{
 }
 
 #details{
-  column-count: 3;
+  column-count: 4;
   background-color: red;
-  width: 25%
 }
